@@ -39,3 +39,9 @@ h1 {
   font-size:100px;
   text-align: center;
 }
+body {
+  background-image: url("https://media.istockphoto.com/id/180638887/photo/beautiful-shanghai-yuyuan-garden-at-night.jpg?s=612x612&w=0&k=20&c=QZaK9sg6a9AavYnfMH38T3Heg9rV8nV3DSMUGO_JRn8=");
+  background-repeat: no-repeat;
+   background-size: cover;
+   
+}
