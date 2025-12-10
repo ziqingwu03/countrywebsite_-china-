@@ -2,7 +2,7 @@ nav{
   padding:5px
 }
 nav a{
-  color:black;
+  color:rgb(255, 255, 255);
   margin:0 10px 0 10px;
   display:inline-block;
   width:20%;
@@ -59,4 +59,10 @@ nav a:hover{
 .container {
   display :flex;
   flex:1;
+}
+#banner h1:hover {
+    text-decoration: underline;
+}
+#two p {
+  background-color: rgb(158, 121, 153);
 }
