@@ -84,3 +84,34 @@ nav a:hover{
   color:white;
 }
 
+
+.landmark {
+  border: 15px solid rgb(89, 177, 165);
+}
+
+.culture{
+  border: 15px solid rgb(255, 255, 255);
+}
+
+.food {
+   border: 15px solid rgb(207, 45, 107);
+}
+
+ #foodp p {
+  background-color:rgb(107, 161, 136)
+}
+
+#indexp p{
+  background-color:aliceblue;
+  color:black;
+}
+
+#culturepa p{
+  background-color:rgba(201, 136, 58, 0.63);
+}
+
+#landmarkp p{
+  background-color: beige;
+  color:rgb(110, 66, 15);
+
+}
