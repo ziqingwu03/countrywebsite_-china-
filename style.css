@@ -115,3 +115,11 @@ nav a:hover{
   color:rgb(110, 66, 15);
 
 }
+
+#one img {
+    filter:grayscale(100%);
+    transition: filter 0.3s ease;
+}
+.indexc img:hover {
+    filter: none;
+}
