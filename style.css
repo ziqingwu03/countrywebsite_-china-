@@ -116,10 +116,15 @@ nav a:hover{
 
 }
 
-#one img {
+.lm img {
     filter:grayscale(100%);
-    transition: filter 0.3s ease;
+    transition: filter 0.1s ease;
 }
-.indexc img:hover {
+.lm img:hover {
     filter: none;
+}
+
+ h1 {
+  font-style:italic;
+  text-shadow: 5px 5px 5px rgb(214, 138, 138);
 }
